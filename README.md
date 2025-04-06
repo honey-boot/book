@@ -6,7 +6,7 @@ As I began exploring this field, I realized how important it is to understand da
 SQL introduced me to databases, where multiple tables are stored. These tables are often connected to each other through various relationships.
 Understanding these relationships clearly helped me write efficient SQL queries, perform table joins, and extract meaningful insights from the data. This foundational knowledge is essential for any data-driven role, and it has been an exciting learning experience for me."
 📁 Repository & Project
-As part of my learning journey, I created a repository called bokk, where I’ve added a project named gravity_books.
+As part of my learning journey, I created a repository called book, where I’ve added a project named gravity_books.
 
 This project is inspired by and based on resources from @bbrumm/databasestar, a great source for understanding SQL and database structures. I’ve used the materials provided there to practice SQL queries, understand table relationships, and explore how data is managed in real-world scenarios.
 Before jumping into writing SQL queries, I began by carefully studying the ER (Entity-Relationship) Diagram of the database.
